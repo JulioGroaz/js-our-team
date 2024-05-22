@@ -38,3 +38,10 @@ const Ramos = {
 const arrayTeam = [Barnet, Caroll, Gordon, Lopez, Estrada, Ramos];
 
 console.log(arrayTeam); //per debugging.
+
+function teamMembers (member) {
+    for(let i =0; i<arrayTeam.length; i++){
+        console.log(member[i].nome,member[i].ruolo, member[i].foto);
+    }
+}
+teamMembers(arrayTeam);
