@@ -24,3 +24,12 @@ Walter Gordon	Office Manager	walter-gordon-office-manager.jpg
 Angela Lopez	Social Media Manager	angela-lopez-social-media-manager.jpg
 Scott Estrada	Developer	scott-estrada-developer.jpg
 Barbara Ramos	Graphic Designer	barbara-ramos-graphic-designer.jpg
+
+
+SCOMPOSIZIONE DEL PROBLEMA:
+
+1) creazione di un array al cui interno sono presenti gli oggetti relativi ai membri del team. 
+    1.1) gli oggetti avranno le seguenti caratteristiche: nome, ruolo, foto.
+2) stampare l'array creando un ciclo for, e dicendogli di stampare tutti gli elementi all'interno dell'array.
+
+3) Creare un contenitore co 'id' per poter stampare in pagina sottoforma di stringhe. s
